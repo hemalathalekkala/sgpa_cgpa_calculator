@@ -34,4 +34,4 @@ This is a simple Python project that calculates **SGPA** for each semester and t
 
 ## Author
 
-Hema Lekkala
+HemaLatha Lekkala
